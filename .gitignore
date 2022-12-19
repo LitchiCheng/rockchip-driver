@@ -1,0 +1,5 @@
+/saradc-test/*.cmd
+/saradc-test/*.symvers
+/saradc-test/*.order
+/saradc-test/*.c
+/saradc-test/*.o
