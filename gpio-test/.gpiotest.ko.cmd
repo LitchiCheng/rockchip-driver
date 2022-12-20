@@ -1,0 +1,1 @@
+cmd_/home/dar/rk3399/rockchip-driver/gpio-test/gpiotest.ko := aarch64-linux-gnu-ld -r  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds --build-id  -o /home/dar/rk3399/rockchip-driver/gpio-test/gpiotest.ko /home/dar/rk3399/rockchip-driver/gpio-test/gpiotest.o /home/dar/rk3399/rockchip-driver/gpio-test/gpiotest.mod.o
